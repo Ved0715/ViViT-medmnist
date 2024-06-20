@@ -4,8 +4,7 @@ Implementing ViViT(Video Vision Transformer) for Video classification on Medmins
 ## Introduction
 The project aims to classifiy differnt videos of organs in human body by using video Vision Transformer (Purely attention mechanism model)
 
-## Images
+## Dataset
 
-### Image 1: Description
 ![Dataset](https://smkamrulhasan.github.io/indexpics/organMNIST.png)
 
